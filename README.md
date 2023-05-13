@@ -29,7 +29,10 @@ For more details, please refer to the following link:
 - [Geant4 Software License](https://geant4.web.cern.ch/license/LICENSE.html)
 
 ### Support and Contribution
-If you have any questions or issues, please report them on GitHub's [Issues](https://github.com/yourusername/particle-sim-native-plugin/issues) page.<br>
+If you are unsure whether something is a bug, or if you simply have questions or opinions, we encourage you to first use the GitHub [Discussions](https://github.com/VMelville/particle-sim-native-plugin/discussions) page.<br>
+We appreciate your sharing ideas that could improve the project through dialogue with the community.
+
+On the other hand, for clear bugs or issues, please report them on the GitHub [Issues](https://github.com/VMelville/particle-sim-native-plugin/issues) page.<br>
 Pull requests are also welcome.
 
 ### Changelog
@@ -67,8 +70,11 @@ Geant4のインストールについては以下のリンクを参照してく�
 - [Geant4 Software License](https://geant4.web.cern.ch/license/LICENSE.html)
 
 ### サポートと貢献
-質問や問題がありましたら、GitHubの[Issues](https://github.com/VMelville/particle-sim-native-plugin/issues)に報告してください。<br>
-また、プルリクエストも歓迎します。
+バグかどうか不明な場合や、単純な質問や意見がある場合は、まずはGitHubの[Discussions](https://github.com/VMelville/particle-sim-native-plugin/discussions)ページをご利用ください。<br>
+コミュニティとの対話を通じて、プロジェクトの改善につながるアイデアを共有していただければ幸いです。
+
+一方、明確なバグや問題がある場合は、GitHubの[Issues](https://github.com/VMelville/particle-sim-native-plugin/issues)に報告してください。<br>
+プルリクエストも歓迎します。
 
 ### 更新履歴
 詳細な更新履歴は[CHANGELOG](./CHANGELOG.md)をご覧ください。
