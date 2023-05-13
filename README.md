@@ -35,6 +35,8 @@ Pull requests are also welcome.
 ### Changelog
 For a detailed history of updates, please refer to the [CHANGELOG](./CHANGELOG.md) file.
 
+----
+
 ## 日本語
 
 ### 説明
