@@ -4,13 +4,13 @@
 This plugin enables you to use a subset of Geant4's features within Unity.<br>
 Currently, it only supports the Windows (x64) platform.
 
-## Recommended Development Environment
+### Recommended Development Environment
 - Visual Studio 2022
 
-## Language Used
+### Language Used
 - C++17
 
-## Dependencies
+### Dependencies
 - Geant4 11.1
   - [Download Link](https://geant4.web.cern.ch/support/download)
 
@@ -20,7 +20,7 @@ For instructions on how to install Geant4, please refer to the following link:
 By default, this plugin assumes that Geant4 is installed in `C:\Program Files\Geant4-11.1`.<br>
 If you have installed it in a different location, please adjust the path accordingly.
 
-## License
+### License
 The contents of this repository are provided under the MIT License.<br>
 For details, please see the [LICENSE](./LICENSE) file.
 
@@ -28,11 +28,11 @@ However, the use of Geant4 is subject to its specific license.<br>
 For more details, please refer to the following link:
 - [Geant4 Software License](https://geant4.web.cern.ch/license/LICENSE.html)
 
-## Support and Contribution
+### Support and Contribution
 If you have any questions or issues, please report them on GitHub's [Issues](https://github.com/yourusername/particle-sim-native-plugin/issues) page.<br>
 Pull requests are also welcome.
 
-## Changelog
+### Changelog
 For a detailed history of updates, please refer to the [CHANGELOG](./CHANGELOG.md) file.
 
 ## 日本語
